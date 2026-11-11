@@ -1,0 +1,4 @@
+# Copie este arquivo para "local.properties" na raiz do projeto e insira sua chave da Google Places API (New):
+# sdk.dir=C\:\\Users\\SEU_USUARIO\\AppData\\Local\\Android\\Sdk
+MAPS_API_KEY=SUA_CHAVE_GOOGLE_PLACES_AQUI
+
